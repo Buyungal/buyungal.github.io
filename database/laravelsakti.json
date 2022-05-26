@@ -1,0 +1,407 @@
+[
+    {
+        "type": "header",
+        "version": "5.1.1",
+        "comment": "Export to JSON plugin for PHPMyAdmin"
+    },
+    {
+        "type": "database",
+        "name": "laravelsakti"
+    },
+    {
+        "type": "table",
+        "name": "dataluaswilayahhs",
+        "database": "laravelsakti",
+        "data": [
+            {
+                "id": "1",
+                "Desa": "Dulupi",
+                "LuasWilayah": "1212",
+                "Persentase": "211",
+                "created_at": "2022-03-21 04:47:45",
+                "updated_at": "2022-03-21 04:47:45"
+            }
+        ]
+    },
+    {
+        "type": "table",
+        "name": "data_kepadatan_penduduks",
+        "database": "laravelsakti",
+        "data": [
+            {
+                "id": "1",
+                "Desa": "Dulupi",
+                "Penduduk": "100",
+                "LuasWilayah": "100",
+                "KepadatanPenduduk": "100",
+                "created_at": "2022-03-21 04:37:30",
+                "updated_at": "2022-03-21 04:37:30"
+            }
+        ]
+    },
+    {
+        "type": "table",
+        "name": "data_listrikdesas",
+        "database": "laravelsakti",
+        "data": [
+            {
+                "id": "1",
+                "Desa": "Dulupi",
+                "PenggunaListrikPln": "100",
+                "PenggunaNonListrikPln": "100",
+                "created_at": "2022-03-21 05:31:37",
+                "updated_at": "2022-03-21 05:31:37"
+            }
+        ]
+    },
+    {
+        "type": "table",
+        "name": "data_listriks",
+        "database": "laravelsakti",
+        "data": []
+    },
+    {
+        "type": "table",
+        "name": "data_luas_panen_cabe_rawits",
+        "database": "laravelsakti",
+        "data": []
+    },
+    {
+        "type": "table",
+        "name": "data_luas_panen_tomats",
+        "database": "laravelsakti",
+        "data": []
+    },
+    {
+        "type": "table",
+        "name": "data_madrasah_ibtidaiyahs",
+        "database": "laravelsakti",
+        "data": []
+    },
+    {
+        "type": "table",
+        "name": "data_m_as",
+        "database": "laravelsakti",
+        "data": []
+    },
+    {
+        "type": "table",
+        "name": "data_m_ts",
+        "database": "laravelsakti",
+        "data": []
+    },
+    {
+        "type": "table",
+        "name": "data_penduduks",
+        "database": "laravelsakti",
+        "data": [
+            {
+                "id": "1",
+                "Desa": "Dulupi",
+                "LakiLaki": "100",
+                "Perempuan": "100",
+                "Rasio": "100",
+                "created_at": "2022-03-21 04:37:56",
+                "updated_at": "2022-03-21 04:37:56"
+            }
+        ]
+    },
+    {
+        "type": "table",
+        "name": "data_produksi_buahs",
+        "database": "laravelsakti",
+        "data": [
+            {
+                "id": "1",
+                "JenisTanaman": "Alpukat",
+                "Tahun2017": "8.2",
+                "Tahun2018": "5.8",
+                "Tahun2019": "6.4",
+                "created_at": "2022-03-21 04:42:01",
+                "updated_at": "2022-03-21 04:42:01"
+            }
+        ]
+    },
+    {
+        "type": "table",
+        "name": "data_produksi_cabe_rawits",
+        "database": "laravelsakti",
+        "data": []
+    },
+    {
+        "type": "table",
+        "name": "data_produksi_tomats",
+        "database": "laravelsakti",
+        "data": []
+    },
+    {
+        "type": "table",
+        "name": "data_puskesmas",
+        "database": "laravelsakti",
+        "data": []
+    },
+    {
+        "type": "table",
+        "name": "data_pus_kbs",
+        "database": "laravelsakti",
+        "data": []
+    },
+    {
+        "type": "table",
+        "name": "data_sekolah_dasars",
+        "database": "laravelsakti",
+        "data": []
+    },
+    {
+        "type": "table",
+        "name": "data_s_m_as",
+        "database": "laravelsakti",
+        "data": []
+    },
+    {
+        "type": "table",
+        "name": "data_s_m_ks",
+        "database": "laravelsakti",
+        "data": []
+    },
+    {
+        "type": "table",
+        "name": "data_s_m_ps",
+        "database": "laravelsakti",
+        "data": []
+    },
+    {
+        "type": "table",
+        "name": "data_tempat_ibadahs",
+        "database": "laravelsakti",
+        "data": [
+            {
+                "id": "1",
+                "Desa": "Dulupi",
+                "JumlahMasjid": "1",
+                "JumlahMushola": "1",
+                "JumlahGerejaProtestan": "1",
+                "JumlahGerejaKatholik": "1",
+                "JumlahPura": "1",
+                "JumlahVihara": "1",
+                "created_at": "2022-03-21 07:16:50",
+                "updated_at": "2022-03-21 07:16:50"
+            }
+        ]
+    },
+    {
+        "type": "table",
+        "name": "data_tenaga_kesehatans",
+        "database": "laravelsakti",
+        "data": []
+    },
+    {
+        "type": "table",
+        "name": "data_ternaks",
+        "database": "laravelsakti",
+        "data": [
+            {
+                "id": "1",
+                "JenisTernak": "Sapi Potong",
+                "Tahun2018": "4769",
+                "Tahun2019": "4758",
+                "Tahun2020": "5512",
+                "created_at": "2022-03-21 04:44:45",
+                "updated_at": "2022-03-21 04:44:45"
+            }
+        ]
+    },
+    {
+        "type": "table",
+        "name": "data_unggas",
+        "database": "laravelsakti",
+        "data": [
+            {
+                "id": "1",
+                "JenisUnggas": "Ayam Kampung",
+                "Tahun2018": "121",
+                "Tahun2019": "121",
+                "Tahun2020": "121",
+                "created_at": "2022-03-21 04:47:25",
+                "updated_at": "2022-03-21 04:47:25"
+            }
+        ]
+    },
+    {
+        "type": "table",
+        "name": "failed_jobs",
+        "database": "laravelsakti",
+        "data": []
+    },
+    {
+        "type": "table",
+        "name": "migrations",
+        "database": "laravelsakti",
+        "data": [
+            {
+                "id": "1",
+                "migration": "2014_10_12_000000_create_users_table",
+                "batch": "1"
+            },
+            {
+                "id": "2",
+                "migration": "2014_10_12_100000_create_password_resets_table",
+                "batch": "1"
+            },
+            {
+                "id": "3",
+                "migration": "2019_08_19_000000_create_failed_jobs_table",
+                "batch": "1"
+            },
+            {
+                "id": "4",
+                "migration": "2019_12_14_000001_create_personal_access_tokens_table",
+                "batch": "1"
+            },
+            {
+                "id": "5",
+                "migration": "2022_03_18_162449_create_dataluaswilayahhs_table",
+                "batch": "1"
+            },
+            {
+                "id": "6",
+                "migration": "2022_03_18_233548_create_data_penduduks_table",
+                "batch": "1"
+            },
+            {
+                "id": "7",
+                "migration": "2022_03_18_235732_create_data_luas_panen_cabe_rawits_table",
+                "batch": "1"
+            },
+            {
+                "id": "8",
+                "migration": "2022_03_19_000135_create_data_luas_panen_tomats_table",
+                "batch": "1"
+            },
+            {
+                "id": "9",
+                "migration": "2022_03_21_042729_create_data_produksi_tomats_table",
+                "batch": "1"
+            },
+            {
+                "id": "10",
+                "migration": "2022_03_21_042928_create_data_produksi_cabe_rawits_table",
+                "batch": "1"
+            },
+            {
+                "id": "11",
+                "migration": "2022_03_21_043557_create_data_kepadatan_penduduks_table",
+                "batch": "1"
+            },
+            {
+                "id": "12",
+                "migration": "2022_03_21_044115_create_data_produksi_buahs_table",
+                "batch": "2"
+            },
+            {
+                "id": "13",
+                "migration": "2022_03_21_044352_create_data_ternaks_table",
+                "batch": "3"
+            },
+            {
+                "id": "14",
+                "migration": "2022_03_21_044632_create_data_unggas_table",
+                "batch": "4"
+            },
+            {
+                "id": "15",
+                "migration": "2022_03_21_045325_create_data_listriks_table",
+                "batch": "5"
+            },
+            {
+                "id": "16",
+                "migration": "2022_03_21_050739_create_data_listrikdesas_table",
+                "batch": "6"
+            },
+            {
+                "id": "17",
+                "migration": "2022_03_21_063226_create_data_tenaga_kesehatans_table",
+                "batch": "7"
+            },
+            {
+                "id": "18",
+                "migration": "2022_03_21_063535_create_data_sekolah_dasars_table",
+                "batch": "8"
+            },
+            {
+                "id": "19",
+                "migration": "2022_03_21_063856_create_data_madrasah_ibtidaiyahs_table",
+                "batch": "9"
+            },
+            {
+                "id": "20",
+                "migration": "2022_03_21_064220_create_data_s_m_ps_table",
+                "batch": "10"
+            },
+            {
+                "id": "21",
+                "migration": "2022_03_21_064440_create_data_m_ts_table",
+                "batch": "11"
+            },
+            {
+                "id": "22",
+                "migration": "2022_03_21_064744_create_data_s_m_as_table",
+                "batch": "12"
+            },
+            {
+                "id": "23",
+                "migration": "2022_03_21_064905_create_data_m_as_table",
+                "batch": "13"
+            },
+            {
+                "id": "24",
+                "migration": "2022_03_21_065304_create_data_s_m_ks_table",
+                "batch": "14"
+            },
+            {
+                "id": "25",
+                "migration": "2022_03_21_065850_create_data_puskesmas_table",
+                "batch": "15"
+            },
+            {
+                "id": "26",
+                "migration": "2022_03_21_070650_create_data_pus_kbs_table",
+                "batch": "16"
+            },
+            {
+                "id": "27",
+                "migration": "2022_03_21_071546_create_data_tempat_ibadahs_table",
+                "batch": "17"
+            }
+        ]
+    },
+    {
+        "type": "table",
+        "name": "password_resets",
+        "database": "laravelsakti",
+        "data": []
+    },
+    {
+        "type": "table",
+        "name": "personal_access_tokens",
+        "database": "laravelsakti",
+        "data": []
+    },
+    {
+        "type": "table",
+        "name": "users",
+        "database": "laravelsakti",
+        "data": [
+            {
+                "id": "1",
+                "name": "coba@test",
+                "email": "coba@test",
+                "email_verified_at": null,
+                "password": "$2y$10$u69eqyrUuJXD1IiF5coSF.QcTVBsKdEm9PmXFAIU17BptusyIDXuC",
+                "remember_token": null,
+                "created_at": "2022-03-21 04:37:13",
+                "updated_at": "2022-03-21 04:37:13"
+            }
+        ]
+    }
+]
